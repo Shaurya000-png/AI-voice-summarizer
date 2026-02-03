@@ -6,3 +6,5 @@ AI Voice Summarizer is a full-stack app that records voice notes, transcribes th
 ![Stack](https://img.shields.io/badge/stack-React_%2B_FastAPI-blue)
 
 ## Features
+
+- Browser-based voice recording with microphone permission handling
