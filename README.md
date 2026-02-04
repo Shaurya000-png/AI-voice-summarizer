@@ -10,3 +10,4 @@ AI Voice Summarizer is a full-stack app that records voice notes, transcribes th
 - Browser-based voice recording with microphone permission handling
 - Audio transcription through OpenAI Whisper
 - AI summary generation using GPT-4o-mini
+- Action item extraction from meetings, lectures, and notes
