@@ -13,3 +13,5 @@ AI Voice Summarizer is a full-stack app that records voice notes, transcribes th
 - Action item extraction from meetings, lectures, and notes
 - Text-to-speech output for listening to the generated summary
 - Clean React interface with loading, result, and playback states
+
+## Tech Stack
