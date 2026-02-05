@@ -15,3 +15,5 @@ AI Voice Summarizer is a full-stack app that records voice notes, transcribes th
 - Clean React interface with loading, result, and playback states
 
 ## Tech Stack
+
+- Backend: FastAPI, Python, Pydantic, python-multipart
