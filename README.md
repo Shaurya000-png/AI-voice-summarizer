@@ -21,3 +21,5 @@ AI Voice Summarizer is a full-stack app that records voice notes, transcribes th
 - AI APIs: Whisper, GPT-4o-mini, and TTS-1
 
 ## Requirements
+
+- Node.js 18 or newer
