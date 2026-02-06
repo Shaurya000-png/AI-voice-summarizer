@@ -25,3 +25,5 @@ AI Voice Summarizer is a full-stack app that records voice notes, transcribes th
 - Node.js 18 or newer
 - Python 3.8 or newer
 - OpenAI API key with access to transcription, chat, and speech models
+
+## Quick Start
