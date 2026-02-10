@@ -41,3 +41,9 @@ python -m venv venv
 .\\venv\\Scripts\\activate
 pip install -r requirements.txt
 ```
+
+Create `backend/.env` from the example file and add your key:
+
+```env
+OPENAI_API_KEY=your_openai_api_key_here
+```
