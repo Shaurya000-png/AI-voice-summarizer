@@ -32,3 +32,12 @@ AI Voice Summarizer is a full-stack app that records voice notes, transcribes th
 git clone <repo-url>
 cd AI-voice-summarizer
 ```
+
+### Backend
+
+```bash
+cd backend
+python -m venv venv
+.\\venv\\Scripts\\activate
+pip install -r requirements.txt
+```
