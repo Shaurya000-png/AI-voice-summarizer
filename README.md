@@ -27,3 +27,8 @@ AI Voice Summarizer is a full-stack app that records voice notes, transcribes th
 - OpenAI API key with access to transcription, chat, and speech models
 
 ## Quick Start
+
+```bash
+git clone <repo-url>
+cd AI-voice-summarizer
+```
