@@ -47,3 +47,9 @@ Create `backend/.env` from the example file and add your key:
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
 ```
+
+Run the API server:
+
+```bash
+uvicorn main:app --reload
+```
