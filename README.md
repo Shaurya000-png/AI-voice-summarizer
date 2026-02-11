@@ -53,3 +53,11 @@ Run the API server:
 ```bash
 uvicorn main:app --reload
 ```
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
