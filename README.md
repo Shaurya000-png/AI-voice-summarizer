@@ -66,3 +66,5 @@ npm run dev
 - Frontend: `http://localhost:5173`
 
 ## API Overview
+
+`POST /api/process-audio` accepts a multipart audio file under the `file` field.
