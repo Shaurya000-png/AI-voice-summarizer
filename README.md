@@ -64,3 +64,5 @@ npm run dev
 
 - Backend: `http://localhost:8000`
 - Frontend: `http://localhost:5173`
+
+## API Overview
