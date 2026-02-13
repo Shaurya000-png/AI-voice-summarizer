@@ -87,3 +87,4 @@ The endpoint transcribes the audio, summarizes the transcript, extracts action i
 1. Open the frontend in the browser and allow microphone access.
 2. Start recording and stop when the voice note is complete.
 3. Wait for the backend to transcribe, summarize, and generate audio output.
+4. Review the transcript, summary, action items, and audio playback.
