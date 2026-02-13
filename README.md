@@ -88,3 +88,5 @@ The endpoint transcribes the audio, summarizes the transcript, extracts action i
 2. Start recording and stop when the voice note is complete.
 3. Wait for the backend to transcribe, summarize, and generate audio output.
 4. Review the transcript, summary, action items, and audio playback.
+
+For best results, record in a quiet room and keep the note focused on one topic.
