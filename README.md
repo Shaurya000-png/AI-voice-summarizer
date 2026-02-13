@@ -83,3 +83,5 @@ The endpoint transcribes the audio, summarizes the transcript, extracts action i
 ```
 
 ## Usage
+
+1. Open the frontend in the browser and allow microphone access.
