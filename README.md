@@ -85,3 +85,4 @@ The endpoint transcribes the audio, summarizes the transcript, extracts action i
 ## Usage
 
 1. Open the frontend in the browser and allow microphone access.
+2. Start recording and stop when the voice note is complete.
