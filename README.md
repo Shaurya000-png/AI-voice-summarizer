@@ -70,3 +70,5 @@ npm run dev
 `POST /api/process-audio` accepts a multipart audio file under the `file` field.
 
 The endpoint transcribes the audio, summarizes the transcript, extracts action items, creates an MP3 summary, and returns JSON.
+
+### Example Response
