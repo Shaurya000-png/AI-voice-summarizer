@@ -72,3 +72,12 @@ npm run dev
 The endpoint transcribes the audio, summarizes the transcript, extracts action items, creates an MP3 summary, and returns JSON.
 
 ### Example Response
+
+```json
+{
+  "transcript": "Full transcription text",
+  "summary": "Short generated summary",
+  "action_items": ["Follow up with the team"],
+  "audio_summary_url": "/generated/summary_file.mp3"
+}
+```
