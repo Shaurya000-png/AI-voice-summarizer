@@ -90,3 +90,5 @@ The endpoint transcribes the audio, summarizes the transcript, extracts action i
 4. Review the transcript, summary, action items, and audio playback.
 
 For best results, record in a quiet room and keep the note focused on one topic.
+
+## Project Structure
