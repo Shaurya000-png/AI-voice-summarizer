@@ -108,3 +108,7 @@ frontend/
 ```
 
 ## Environment Variables
+
+| Variable | Location | Purpose |
+| --- | --- | --- |
+| `OPENAI_API_KEY` | `backend/.env` | Authenticates requests to OpenAI APIs |
