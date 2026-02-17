@@ -92,3 +92,10 @@ The endpoint transcribes the audio, summarizes the transcript, extracts action i
 For best results, record in a quiet room and keep the note focused on one topic.
 
 ## Project Structure
+
+```text
+backend/
+  main.py           FastAPI app and `/api/process-audio` endpoint
+  services.py       OpenAI transcription, summary, and speech helpers
+  models.py         Pydantic response schemas
+  requirements.txt  Python dependencies
