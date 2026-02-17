@@ -114,3 +114,5 @@ frontend/
 | `OPENAI_API_KEY` | `backend/.env` | Authenticates requests to OpenAI APIs |
 
 Do not commit `.env`; only the `.env.example` template belongs in the repository.
+
+## Troubleshooting
