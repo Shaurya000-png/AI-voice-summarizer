@@ -116,3 +116,5 @@ frontend/
 Do not commit `.env`; only the `.env.example` template belongs in the repository.
 
 ## Troubleshooting
+
+- If recording fails, check browser microphone permissions and use `localhost` or HTTPS.
