@@ -106,3 +106,5 @@ frontend/
   src/components/SummaryView.jsx      Transcript, summary, and actions UI
   src/index.css                       Tailwind entry styles
 ```
+
+## Environment Variables
