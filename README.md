@@ -99,3 +99,10 @@ backend/
   services.py       OpenAI transcription, summary, and speech helpers
   models.py         Pydantic response schemas
   requirements.txt  Python dependencies
+
+frontend/
+  src/App.jsx                         Main page and upload workflow
+  src/components/AudioRecorder.jsx    Microphone capture and upload
+  src/components/SummaryView.jsx      Transcript, summary, and actions UI
+  src/index.css                       Tailwind entry styles
+```
