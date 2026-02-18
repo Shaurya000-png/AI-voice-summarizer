@@ -123,3 +123,5 @@ Do not commit `.env`; only the `.env.example` template belongs in the repository
 - If audio playback is missing, check that the `backend/generated/` folder can be created.
 
 ## Cost Note
+
+Each recording uses transcription, chat completion, and speech generation APIs. Short tests are inexpensive, but usage depends on audio length and current provider pricing.
