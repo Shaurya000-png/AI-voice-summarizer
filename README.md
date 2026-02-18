@@ -119,3 +119,4 @@ Do not commit `.env`; only the `.env.example` template belongs in the repository
 
 - If recording fails, check browser microphone permissions and use `localhost` or HTTPS.
 - If uploads fail, confirm the FastAPI server is running on port `8000`.
+- If AI processing fails, verify that `OPENAI_API_KEY` is set in `backend/.env`.
