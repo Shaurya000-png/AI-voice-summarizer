@@ -127,3 +127,9 @@ Do not commit `.env`; only the `.env.example` template belongs in the repository
 Each recording uses transcription, chat completion, and speech generation APIs. Short tests are inexpensive, but usage depends on audio length and current provider pricing.
 
 ## Development Commands
+
+| Command | Directory | Description |
+| --- | --- | --- |
+| `npm run dev` | `frontend/` | Start the Vite dev server |
+| `npm run build` | `frontend/` | Build frontend assets |
+| `npm run lint` | `frontend/` | Run ESLint |
