@@ -121,3 +121,5 @@ Do not commit `.env`; only the `.env.example` template belongs in the repository
 - If uploads fail, confirm the FastAPI server is running on port `8000`.
 - If AI processing fails, verify that `OPENAI_API_KEY` is set in `backend/.env`.
 - If audio playback is missing, check that the `backend/generated/` folder can be created.
+
+## Cost Note
