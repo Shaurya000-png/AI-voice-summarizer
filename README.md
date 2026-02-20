@@ -133,3 +133,4 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 | `npm run dev` | `frontend/` | Start the Vite dev server |
 | `npm run build` | `frontend/` | Build frontend assets |
 | `npm run lint` | `frontend/` | Run ESLint |
+| `uvicorn main:app --reload` | `backend/` | Start the FastAPI API |
