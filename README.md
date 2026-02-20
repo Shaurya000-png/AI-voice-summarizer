@@ -134,3 +134,5 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 | `npm run build` | `frontend/` | Build frontend assets |
 | `npm run lint` | `frontend/` | Run ESLint |
 | `uvicorn main:app --reload` | `backend/` | Start the FastAPI API |
+
+## Current Limitations
