@@ -136,3 +136,7 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 | `uvicorn main:app --reload` | `backend/` | Start the FastAPI API |
 
 ## Current Limitations
+
+- Audio files are processed per request and generated summaries are stored locally.
+- There is no user account system or persistent history yet.
+- The frontend currently targets the local backend URL directly.
