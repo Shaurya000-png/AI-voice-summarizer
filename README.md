@@ -147,3 +147,7 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 - Support uploaded audio files in addition to browser recording
 - Add summary length controls and meeting-style templates
 - Add deployment configuration for a hosted frontend and backend
+
+## License
+
+MIT License. This project is intended for learning and portfolio demonstration.
