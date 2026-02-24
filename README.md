@@ -145,3 +145,4 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 
 - Save previous transcripts and summaries in a local or cloud database
 - Support uploaded audio files in addition to browser recording
+- Add summary length controls and meeting-style templates
