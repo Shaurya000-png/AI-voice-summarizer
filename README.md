@@ -142,3 +142,5 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 - The frontend currently targets the local backend URL directly.
 
 ## Roadmap
+
+- Save previous transcripts and summaries in a local or cloud database
