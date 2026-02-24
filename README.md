@@ -144,3 +144,4 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 ## Roadmap
 
 - Save previous transcripts and summaries in a local or cloud database
+- Support uploaded audio files in addition to browser recording
