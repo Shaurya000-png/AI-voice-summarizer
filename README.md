@@ -1,6 +1,6 @@
 # AI Voice Summarizer
 
-AI Voice Summarizer is a full-stack app that records voice notes, transcribes them, summarizes the text, extracts action items, and generates a spoken summary.
+AI Voice Summarizer is a full-stack prototype that turns voice notes into transcripts, concise summaries, action items, and playable audio summaries.
 
 ![Status](https://img.shields.io/badge/status-working_prototype-brightgreen)
 ![Stack](https://img.shields.io/badge/stack-React_%2B_FastAPI-blue)
