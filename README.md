@@ -7,7 +7,7 @@ AI Voice Summarizer is a full-stack prototype that turns voice notes into transc
 
 ## Features
 
-- Browser-based voice recording with microphone permission handling
+- Browser-based voice recording with clear start and stop states
 - Audio transcription through OpenAI Whisper
 - AI summary generation using GPT-4o-mini
 - Action item extraction from meetings, lectures, and notes
