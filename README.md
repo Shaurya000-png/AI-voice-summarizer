@@ -143,6 +143,10 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 
 
 ## Testing Notes
+
+- Start the backend and frontend together.
+- Record a short voice note and submit it.
+- Confirm that transcript, summary, action items, and audio playback appear.
 ## Roadmap
 
 - Save previous transcripts and summaries in a local or cloud database
