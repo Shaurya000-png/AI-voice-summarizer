@@ -154,6 +154,8 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 - Add summary length controls and meeting-style templates
 - Add deployment configuration for a hosted frontend and backend
 
+
+## Privacy Note
 ## License
 
 MIT License. This project is intended for learning and portfolio demonstration.
