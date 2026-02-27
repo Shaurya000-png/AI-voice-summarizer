@@ -141,6 +141,8 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 - There is no user account system or persistent history yet.
 - The frontend currently posts to `http://localhost:8000/api/process-audio`.
 
+
+## Testing Notes
 ## Roadmap
 
 - Save previous transcripts and summaries in a local or cloud database
