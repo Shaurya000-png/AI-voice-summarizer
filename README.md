@@ -161,4 +161,6 @@ Recorded audio is sent to the local backend, then forwarded to OpenAI APIs for t
 Generated MP3 summaries are written under `backend/generated/`, which is ignored by git.
 ## License
 
+
+Built as a practical full-stack AI prototype combining browser recording, API processing, and generated playback.
 MIT License. This project is intended for learning and portfolio demonstration.
