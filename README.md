@@ -164,3 +164,7 @@ Generated MP3 summaries are written under `backend/generated/`, which is ignored
 
 Built as a practical full-stack AI prototype combining browser recording, API processing, and generated playback.
 MIT License. This project is intended for learning and portfolio demonstration.
+
+---
+
+The app is intentionally small, but it covers the complete path from recording to AI-generated output.
