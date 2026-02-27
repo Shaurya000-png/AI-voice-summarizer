@@ -141,12 +141,12 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 - There is no user account system or persistent history yet.
 - The frontend currently posts to `http://localhost:8000/api/process-audio`.
 
-
 ## Testing Notes
 
 - Start the backend and frontend together.
 - Record a short voice note and submit it.
 - Confirm that transcript, summary, action items, and audio playback appear.
+
 ## Roadmap
 
 - Save previous transcripts and summaries in a local or cloud database
@@ -154,13 +154,12 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 - Add summary length controls and meeting-style templates
 - Add deployment configuration for a hosted frontend and backend
 
-
 ## Privacy Note
 
 Recorded audio is sent to the local backend, then forwarded to OpenAI APIs for transcription, summarization, and speech generation.
 Generated MP3 summaries are written under `backend/generated/`, which is ignored by git.
-## License
 
+## License
 
 Built as a practical full-stack AI prototype combining browser recording, API processing, and generated playback.
 MIT License. This project is intended for learning and portfolio demonstration.
