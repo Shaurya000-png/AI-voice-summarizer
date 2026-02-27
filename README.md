@@ -158,6 +158,7 @@ Each recording uses transcription, chat completion, and speech generation APIs. 
 ## Privacy Note
 
 Recorded audio is sent to the local backend, then forwarded to OpenAI APIs for transcription, summarization, and speech generation.
+Generated MP3 summaries are written under `backend/generated/`, which is ignored by git.
 ## License
 
 MIT License. This project is intended for learning and portfolio demonstration.
